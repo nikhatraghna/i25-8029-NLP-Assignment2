@@ -1,0 +1,7 @@
+{
+  "model": "BiLSTM POS fine-tuned C3",
+  "test_accuracy": 0.933050447901933,
+  "test_macro_f1": 0.9425369723194922,
+  "best_validation_macro_f1": 0.9451365984100533,
+  "evaluation_note": "Reference POS annotations are generated using a provisional rule-based tagging system."
+}

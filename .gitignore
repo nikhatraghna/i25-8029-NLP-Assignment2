@@ -19,3 +19,9 @@ Thumbs.db
 # Local experiment artifacts (commit final required outputs explicitly)
 *.tmp
 *.cache
+
+# Exclude large binary embedding matrices
+embeddings/*.npy
+
+# Exclude heavy binary numpy matrices
+embeddings/*.npy
