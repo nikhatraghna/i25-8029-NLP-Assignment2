@@ -1,0 +1,214 @@
+{
+  "run": "ner_balanced_crf_c3",
+  "best_epoch": 13,
+  "best_val_entity_f1": 0.689655172413793,
+  "sampling_info": {
+    "train_sentences": 350,
+    "entity_sentences": 77,
+    "non_entity_sentences": 273,
+    "sampling": "approximately 50/50 by sentence group"
+  },
+  "embedding_info": {
+    "vocabulary_size": 2163,
+    "covered_words": 2106,
+    "coverage_percent": 97.36,
+    "source_matrix_shape": [
+      10000,
+      100
+    ]
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 26.486801765181802,
+      "val_entity_precision": 0.0,
+      "val_entity_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 2,
+      "train_loss": 6.271462830630216,
+      "val_entity_precision": 0.0,
+      "val_entity_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 3,
+      "train_loss": 5.210247494957664,
+      "val_entity_precision": 0.0,
+      "val_entity_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 4,
+      "train_loss": 3.767938397147439,
+      "val_entity_precision": 0.0,
+      "val_entity_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 5,
+      "train_loss": 2.884811959483407,
+      "val_entity_precision": 0.5,
+      "val_entity_recall": 0.35714285714285715,
+      "val_entity_f1": 0.41666666666666663,
+      "val_tp": 5,
+      "val_fp": 5,
+      "val_fn": 9
+    },
+    {
+      "epoch": 6,
+      "train_loss": 2.2056361978704278,
+      "val_entity_precision": 0.6,
+      "val_entity_recall": 0.42857142857142855,
+      "val_entity_f1": 0.5,
+      "val_tp": 6,
+      "val_fp": 4,
+      "val_fn": 8
+    },
+    {
+      "epoch": 7,
+      "train_loss": 1.4861564636230469,
+      "val_entity_precision": 0.5,
+      "val_entity_recall": 0.5,
+      "val_entity_f1": 0.5,
+      "val_tp": 7,
+      "val_fp": 7,
+      "val_fn": 7
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.9641606753522699,
+      "val_entity_precision": 0.5,
+      "val_entity_recall": 0.6428571428571429,
+      "val_entity_f1": 0.5625000000000001,
+      "val_tp": 9,
+      "val_fp": 9,
+      "val_fn": 5
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.8348690332336859,
+      "val_entity_precision": 0.5,
+      "val_entity_recall": 0.5714285714285714,
+      "val_entity_f1": 0.5333333333333333,
+      "val_tp": 8,
+      "val_fp": 8,
+      "val_fn": 6
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.6406315023248846,
+      "val_entity_precision": 0.5714285714285714,
+      "val_entity_recall": 0.5714285714285714,
+      "val_entity_f1": 0.5714285714285714,
+      "val_tp": 8,
+      "val_fp": 6,
+      "val_fn": 6
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.49219110066240485,
+      "val_entity_precision": 0.5625,
+      "val_entity_recall": 0.6428571428571429,
+      "val_entity_f1": 0.6000000000000001,
+      "val_tp": 9,
+      "val_fp": 7,
+      "val_fn": 5
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.4495373300530694,
+      "val_entity_precision": 0.5625,
+      "val_entity_recall": 0.6428571428571429,
+      "val_entity_f1": 0.6000000000000001,
+      "val_tp": 9,
+      "val_fp": 7,
+      "val_fn": 5
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.3293573680249127,
+      "val_entity_precision": 0.6666666666666666,
+      "val_entity_recall": 0.7142857142857143,
+      "val_entity_f1": 0.689655172413793,
+      "val_tp": 10,
+      "val_fp": 5,
+      "val_fn": 4
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.22315383736382832,
+      "val_entity_precision": 0.5333333333333333,
+      "val_entity_recall": 0.5714285714285714,
+      "val_entity_f1": 0.5517241379310344,
+      "val_tp": 8,
+      "val_fp": 7,
+      "val_fn": 6
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.17928341302004727,
+      "val_entity_precision": 0.6428571428571429,
+      "val_entity_recall": 0.6428571428571429,
+      "val_entity_f1": 0.6428571428571429,
+      "val_tp": 9,
+      "val_fp": 5,
+      "val_fn": 5
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.17532740787348963,
+      "val_entity_precision": 0.6,
+      "val_entity_recall": 0.6428571428571429,
+      "val_entity_f1": 0.6206896551724138,
+      "val_tp": 9,
+      "val_fp": 6,
+      "val_fn": 5
+    },
+    {
+      "epoch": 17,
+      "train_loss": 0.13792480587620626,
+      "val_entity_precision": 0.6,
+      "val_entity_recall": 0.6428571428571429,
+      "val_entity_f1": 0.6206896551724138,
+      "val_tp": 9,
+      "val_fp": 6,
+      "val_fn": 5
+    },
+    {
+      "epoch": 18,
+      "train_loss": 0.11535376852208917,
+      "val_entity_precision": 0.5,
+      "val_entity_recall": 0.6428571428571429,
+      "val_entity_f1": 0.5625000000000001,
+      "val_tp": 9,
+      "val_fp": 9,
+      "val_fn": 5
+    },
+    {
+      "epoch": 19,
+      "train_loss": 0.17127022803337735,
+      "val_entity_precision": 0.5625,
+      "val_entity_recall": 0.6428571428571429,
+      "val_entity_f1": 0.6000000000000001,
+      "val_tp": 9,
+      "val_fp": 7,
+      "val_fn": 5
+    }
+  ],
+  "checkpoint": "/content/i25-8029-NLP-Assignment2/models/ner_balanced_crf_c3.pt",
+  "reference_labels": "provisional gazetteer annotations"
+}
