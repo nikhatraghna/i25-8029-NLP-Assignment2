@@ -1,0 +1,87 @@
+{
+  "accuracy": 0.28205128205128205,
+  "macro_f1": 0.12333333333333334,
+  "confusion_matrix": [
+    [
+      0,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      10,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      8,
+      1
+    ]
+  ],
+  "classification_report": {
+    "Politics": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 8.0
+    },
+    "Sports": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 7.0
+    },
+    "Economy": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 5.0
+    },
+    "International": {
+      "precision": 0.2631578947368421,
+      "recall": 1.0,
+      "f1-score": 0.4166666666666667,
+      "support": 10.0
+    },
+    "Health & Society": {
+      "precision": 1.0,
+      "recall": 0.1111111111111111,
+      "f1-score": 0.2,
+      "support": 9.0
+    },
+    "accuracy": 0.28205128205128205,
+    "macro avg": {
+      "precision": 0.25263157894736843,
+      "recall": 0.22222222222222224,
+      "f1-score": 0.12333333333333334,
+      "support": 39.0
+    },
+    "weighted avg": {
+      "precision": 0.2982456140350877,
+      "recall": 0.28205128205128205,
+      "f1-score": 0.152991452991453,
+      "support": 39.0
+    }
+  },
+  "label_provenance": "Weak topic labels"
+}
