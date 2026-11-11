@@ -1,0 +1,801 @@
+﻿token,suggested_pos,corpus_frequency,verified_pos,ambiguous,review_status,suggested_correction,review_note
+بتایا,VERB,601,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+جانا,VERB,521,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+شامل,VERB,513,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+دو,ADV,463,,False,pending_context,NUM/VERB,Not safely a standalone ADV; inspect context before accepting
+پی,VERB,414,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+پولیس,NOUN,414,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+وجہ,NOUN,400,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+شروع,VERB,396,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+غیر,ADV,395,,False,pending_context,ADJ/PREFIX,Not safely a standalone ADV; inspect context before accepting
+خاتون,NOUN,393,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+جاری,VERB,390,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+میڈیا,NOUN,363,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+جہاں,ADV,329,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+لکھا,VERB,328,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+کمپنی,NOUN,325,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کوشش,NOUN,323,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بیان,NOUN,322,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+تین,ADV,321,,False,pending_context,NUM,Not safely a standalone ADV; inspect context before accepting
+لگا,VERB,317,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+بار,ADV,308,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+لے,VERB,308,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+عمر,NOUN,307,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+دینا,VERB,296,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+فلم,NOUN,288,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+آنا,VERB,286,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+شخص,NOUN,282,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کردار,NOUN,278,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+خیال,NOUN,274,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بڑھ,VERB,269,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+گھر,NOUN,269,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+حملہ,NOUN,268,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بیٹا,NOUN,257,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+دے,VERB,256,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پیدا,VERB,252,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+قرار,VERB,247,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+رکھا,VERB,242,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+مقدمہ,NOUN,240,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+دیکھا,VERB,235,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+فیصد,NOUN,233,,False,pending_context,contextual,Nominal use possible but ambiguous or fragment
+میزائل,NOUN,232,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+سمجھ,VERB,232,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+نظام,NOUN,231,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+آتا,VERB,228,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+ویڈیو,NOUN,224,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+پہنچ,VERB,223,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پورا,ADJ,223,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+معاہدہ,NOUN,217,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+گاڑی,NOUN,211,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مدد,NOUN,209,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+جواب,NOUN,208,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ملا,VERB,204,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+فراہم,VERB,201,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+عام,ADJ,200,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+لاکھ,NOUN,198,,False,pending_context,contextual,Nominal use possible but ambiguous or fragment
+روز,ADV,198,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+دفاعی,ADJ,197,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+دعوی,VERB,196,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+اتنا,ADV,194,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+کھا,VERB,193,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+ختم,VERB,192,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+بتا,VERB,192,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+اثر,NOUN,190,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+جنگ,NOUN,190,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+راستہ,NOUN,189,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کپتان,NOUN,188,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+چلا,VERB,185,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+خاندان,NOUN,183,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+پہنچا,VERB,182,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+ہزار,NOUN,179,,False,pending_context,contextual,Nominal use possible but ambiguous or fragment
+دور,ADV,179,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+کیوں,ADV,173,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+جہاز,NOUN,173,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+درخواست,NOUN,172,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+باہر,ADV,169,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+ضرورت,NOUN,168,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+علاج,NOUN,167,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+نقصان,NOUN,167,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+جائیں,VERB,165,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+شاید,ADV,163,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+رہتا,VERB,163,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+مل,VERB,160,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+جگہ,ADV,159,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+گیند,NOUN,157,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+رابطہ,NOUN,156,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+تبدیلی,NOUN,156,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+طریقہ,NOUN,155,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+صحافی,NOUN,154,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بنایا,VERB,154,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+انداز,NOUN,153,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+والد,NOUN,149,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+نتیجہ,NOUN,148,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ظاہر,VERB,148,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+متاثر,VERB,146,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+ذمہ,NOUN,146,,False,pending_context,contextual,Nominal use possible but ambiguous or fragment
+آخری,ADJ,146,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+جسم,NOUN,144,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+تعداد,NOUN,144,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+قریب,ADV,142,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+لینا,VERB,140,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+شادی,NOUN,138,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+صدر,NOUN,138,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کافی,ADV,136,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+ہاتھ,NOUN,133,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بڑھا,VERB,133,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+جیل,NOUN,133,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+لگتا,VERB,127,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+کس,ADV,127,,False,pending_context,PRON/DET,Not safely a standalone ADV; inspect context before accepting
+محدود,ADJ,126,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+داری,NOUN,126,,False,pending_context,contextual,Nominal use possible but ambiguous or fragment
+دورہ,NOUN,125,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+طویل,ADJ,125,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+رہنا,VERB,124,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+اندر,ADV,123,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+قابل,ADJ,123,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+ڈالر,NOUN,123,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+وزارت,NOUN,123,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ڈرامہ,NOUN,122,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+جیت,VERB,122,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+متعدد,ADJ,122,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+روک,VERB,121,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+چھوڑ,VERB,121,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+انتہائی,ADV,119,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+موت,NOUN,119,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ریاست,NOUN,118,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+سزا,NOUN,118,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بہترین,ADJ,117,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+دوا,NOUN,117,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+تنظیم,NOUN,116,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کروا,VERB,116,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+مقصد,NOUN,116,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+سمجھا,VERB,115,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+لکھ,VERB,113,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+لگ,VERB,112,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+ریکارڈ,NOUN,112,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کامیابی,NOUN,111,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+طیارہ,NOUN,111,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+عملا,ADV,111,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+مار,VERB,111,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+منصوبہ,NOUN,111,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ممکنہ,ADV,111,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+مطالبہ,VERB,110,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+سفر,NOUN,109,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+حکم,NOUN,109,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+گزر,VERB,109,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+دیں,VERB,108,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پیغام,NOUN,108,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+یونیورسٹی,NOUN,107,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+دل,NOUN,106,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+شہری,ADJ,104,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+دفاع,NOUN,104,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+پانا,VERB,103,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+شکست,NOUN,103,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مصنوعات,NOUN,103,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ملزم,NOUN,103,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+آگے,ADV,102,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+صارف,NOUN,101,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+میدان,NOUN,99,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+لیتا,VERB,98,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+اہلکار,NOUN,98,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+آواز,NOUN,98,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مبینہ,ADV,98,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+پوچھا,VERB,98,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+گول,ADJ,96,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+ذیابیطس,NOUN,96,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کتاب,NOUN,96,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+معمولی,ADJ,96,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+تجارت,NOUN,95,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+تجربہ,NOUN,94,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ابتدائی,ADJ,93,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+اٹھا,VERB,92,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+کھیلا,VERB,92,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+تبدیل,VERB,92,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+جنوبی,ADJ,92,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ہتھیار,NOUN,92,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+فی,ADV,91,,False,pending_context,POST,Not safely a standalone ADV; inspect context before accepting
+یقینا,ADV,91,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+مضبوط,ADJ,90,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+گھنٹہ,NOUN,90,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مستقبل,ADJ,90,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+تاریخ,NOUN,89,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ویب,NOUN,88,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مرد,NOUN,88,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+فون,NOUN,88,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+سائٹ,NOUN,88,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ترین,ADJ,88,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+موجودہ,ADJ,87,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+قبول,VERB,87,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+مارکیٹ,NOUN,87,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+نوجوان,NOUN,87,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ملتا,VERB,87,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+انسانی,ADJ,86,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+نمایاں,ADJ,85,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ٹیکنالوجی,NOUN,84,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بظاہر,ADV,84,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+زمین,NOUN,83,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+جانور,NOUN,82,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+تقریب,NOUN,82,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+خون,NOUN,82,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+نجی,ADJ,82,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+مغربی,ADJ,82,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ملنا,VERB,81,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+درست,ADJ,81,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+گرفتار,VERB,81,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+گروپ,NOUN,80,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+تیزی,ADV,80,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+تیسرا,ADJ,80,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بھیج,VERB,80,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سوچ,VERB,79,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+رہنما,NOUN,79,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+معیار,NOUN,79,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+جرم,NOUN,79,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بیماری,NOUN,79,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+براہ,ADV,78,,False,pending_context,PART_OF_EXPRESSION,Not safely a standalone ADV; inspect context before accepting
+فائنل,NOUN,78,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+والدہ,NOUN,77,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+عورت,NOUN,77,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مجموعی,ADV,77,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+خصوصا,ADV,77,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+ارب,NOUN,76,,False,pending_context,contextual,Nominal use possible but ambiguous or fragment
+تحریک,NOUN,76,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ماحول,NOUN,76,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+سخت,ADJ,76,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+محض,ADV,75,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+افسر,NOUN,75,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+طالب,NOUN,74,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+اصل,ADJ,74,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+کوچ,NOUN,74,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+تسلیم,VERB,74,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+وسیع,ADJ,74,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+اعلی,ADJ,73,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+تجارتی,ADJ,73,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ضرور,ADV,72,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+فتح,NOUN,72,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+دوست,NOUN,72,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کھڑا,VERB,72,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+تیز,ADJ,72,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+خرید,VERB,71,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+غلط,ADJ,70,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+حل,VERB,69,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+لمحہ,NOUN,69,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+آنکھ,NOUN,68,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بھیجا,VERB,68,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+عموما,ADV,68,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+آخر,ADV,67,,False,pending_context,NOUN/ADV,Not safely a standalone ADV; inspect context before accepting
+پروگرام,NOUN,67,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+گزار,VERB,67,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+وکیل,NOUN,67,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مرکزی,ADJ,67,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+فائدہ,NOUN,67,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+جدید,ADJ,66,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+رقم,NOUN,66,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+راست,ADV,66,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+انسان,NOUN,66,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+باز,NOUN,66,,False,pending_context,contextual,Nominal use possible but ambiguous or fragment
+گانا,NOUN,66,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+منٹ,NOUN,65,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+پا,VERB,64,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+تصویر,NOUN,64,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+منظور,VERB,64,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+مند,ADJ,64,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+شمالی,ADJ,63,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+وفاقی,ADJ,63,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+طاقت,NOUN,63,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+پڑھ,VERB,63,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+واقعی,ADV,63,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+روایتی,ADJ,62,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+خوراک,NOUN,62,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مناسب,ADJ,62,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+مارا,VERB,61,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+یوں,ADV,60,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+دھماکہ,NOUN,60,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مقدار,NOUN,59,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کارکن,NOUN,59,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کینسر,NOUN,59,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+دفتر,NOUN,59,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+آئیں,VERB,58,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+مقبول,ADJ,58,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ملکی,ADJ,57,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+کروڑ,NOUN,57,,False,pending_context,contextual,Nominal use possible but ambiguous or fragment
+سنا,VERB,56,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سر,NOUN,56,,False,pending_context,contextual,Nominal use possible but ambiguous or fragment
+مخصوص,ADJ,56,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+دستیاب,ADJ,55,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+اداکار,NOUN,55,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+خوف,NOUN,55,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+صنعت,NOUN,55,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+چل,VERB,54,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+جماعت,NOUN,54,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+انصاف,NOUN,54,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+فنکار,NOUN,54,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+رشتہ,NOUN,54,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+علاقائی,ADJ,54,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+خراب,ADJ,54,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+مذہبی,ADJ,54,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+معروف,ADJ,54,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+نسبتا,ADV,53,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+سمندر,NOUN,53,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+موسیقی,NOUN,53,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ٹرافی,NOUN,53,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+سرمایہ,NOUN,53,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+الیکٹرک,ADJ,52,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+مہنگا,ADJ,52,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+اچانک,ADV,52,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+سبب,NOUN,51,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+چلنا,VERB,51,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+دیر,ADV,50,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+چلتا,VERB,50,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+بول,VERB,50,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+مظاہرہ,NOUN,50,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کہاں,ADV,49,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+پیدائش,NOUN,49,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+خطرناک,ADJ,48,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+مالی,ADJ,48,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+سرحد,NOUN,48,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بس,NOUN,47,,False,pending_context,contextual,Nominal use possible but ambiguous or fragment
+شائقین,NOUN,47,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+اوقات,ADV,47,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+اضافی,ADJ,47,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+تب,ADV,47,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+عسکری,ADJ,46,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+مہینہ,NOUN,45,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+جج,NOUN,45,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+حیثیت,ADV,45,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+عدالتی,ADJ,45,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ناقابل,ADJ,45,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+امن,NOUN,45,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+پریشان,ADJ,45,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+امتحان,NOUN,44,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مشہور,ADJ,44,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+کمزور,ADJ,44,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+دوڑ,VERB,44,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پیشہ,ADJ,44,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+گہرا,ADJ,44,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+کھول,VERB,43,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+جتنا,ADV,43,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+حکومتی,ADJ,43,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+صوبہ,NOUN,42,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مارچ,NOUN,42,,False,pending_context,contextual,Nominal use possible but ambiguous or fragment
+کروایا,VERB,42,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سڑک,NOUN,42,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+سپاہی,NOUN,42,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+آہستہ,ADV,41,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+اوپر,ADV,41,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+کالج,NOUN,41,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+علم,NOUN,41,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بیٹھا,VERB,40,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+مختصر,ADJ,40,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+دکھایا,VERB,40,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+احساس,NOUN,40,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+منافع,NOUN,40,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+وزیراعظم,NOUN,39,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+پیر,NOUN,39,,False,pending_context,contextual,Nominal use possible but ambiguous or fragment
+واحد,ADJ,39,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+پوچھ,VERB,39,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+نیچا,ADJ,39,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+شرح,NOUN,38,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+جیتا,VERB,38,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+لہذا,ADV,38,,False,pending_context,CONJ,Not safely a standalone ADV; inspect context before accepting
+بیٹھ,VERB,38,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+استاد,NOUN,38,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مصنوعی,ADJ,38,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بھرا,ADJ,38,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+روکا,VERB,37,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+غلطی,ADV,37,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+زبان,NOUN,37,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+دلچسپ,ADJ,36,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+پاتا,VERB,36,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+اٹھ,VERB,36,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+مستقل,ADJ,36,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ٹورنامنٹ,NOUN,36,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بینک,NOUN,35,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+باضابطہ,ADV,35,,False,pending_context,ADJ/ADV,Not safely a standalone ADV; inspect context before accepting
+عمارت,NOUN,35,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بندرگاہ,NOUN,35,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ضلع,NOUN,35,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بالآخر,ADV,35,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+ماحولیاتی,ADJ,34,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+پکڑ,VERB,34,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+خاصا,ADV,34,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+خوشی,ADV,33,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+انکار,VERB,33,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+بیٹی,NOUN,33,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+چوتھا,ADJ,32,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ملازمت,NOUN,32,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+پارٹی,NOUN,32,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ہار,VERB,32,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+کلاس,NOUN,31,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+ٹیکس,NOUN,31,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+محکمہ,NOUN,31,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+دماغ,NOUN,31,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+لمبا,ADJ,31,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+گورا,ADJ,31,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+اخبار,NOUN,30,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کمرہ,NOUN,30,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+کب,ADV,29,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+نزدیک,ADV,29,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+سائنس,NOUN,29,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+آئینی,ADJ,29,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+جلدی,ADV,29,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+بھاری,ADJ,28,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+سو,VERB,27,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+لگنا,VERB,27,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+تکنیکی,ADJ,27,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+خوبصورت,ADJ,27,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+جنگل,NOUN,27,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+عارضی,ADJ,26,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+دکان,NOUN,26,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+موسم,NOUN,26,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+متوقع,ADV,26,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+بیچ,VERB,25,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+کچا,ADJ,25,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+انتظامی,ADJ,25,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+الحال,ADV,25,,False,pending_context,PART_OF_EXPRESSION,Not safely a standalone ADV; inspect context before accepting
+ورانہ,ADJ,25,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+آسانی,ADV,24,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+آئندہ,ADJ,24,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+سستا,ADJ,24,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ڈیجیٹل,ADJ,24,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+سوچا,VERB,24,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+دشمن,NOUN,24,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+انٹرنیٹ,NOUN,24,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+اڈہ,NOUN,24,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+سفید,ADJ,23,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+گوشت,NOUN,23,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مضمون,NOUN,23,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+خریدا,VERB,23,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+موبائل,NOUN,23,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+شفاف,ADJ,23,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+کھل,ADV,22,,False,pending_context,VERB,Not safely a standalone ADV; inspect context before accepting
+ڈیٹا,NOUN,22,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+پارلیمان,NOUN,22,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+مالیاتی,ADJ,22,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+تنگ,ADJ,22,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+دائیں,ADV,22,,False,pending_context,ADJ/ADV,Not safely a standalone ADV; inspect context before accepting
+مشرقی,ADJ,22,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+اسلامی,ADJ,22,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+لازما,ADV,22,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+خفیہ,ADJ,21,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+آمدن,NOUN,21,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+دکھ,VERB,21,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+گزرا,VERB,21,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+طاقتور,ADJ,21,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+صنعتی,ADJ,20,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+پھل,NOUN,20,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+امیر,ADJ,20,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+گزارا,VERB,20,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+کمپیوٹر,NOUN,19,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+رکنا,VERB,19,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+گھٹ,VERB,19,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سننا,VERB,19,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+جغرافیائی,ADJ,19,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+سیکھ,VERB,18,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+دریا,NOUN,17,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+بجٹ,NOUN,17,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+سرجری,NOUN,17,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+تعلیمی,ADJ,17,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+داخلی,ADJ,17,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+شاعر,NOUN,17,NOUN,False,reviewed_lexical,,Predominantly nominal lexical entry; contextual usage still requires checking
+خاموشی,ADV,17,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+پینا,VERB,16,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+چھوڑا,VERB,16,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پڑھا,VERB,16,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پکڑا,VERB,16,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+گرم,ADJ,16,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+نایاب,ADJ,16,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بائیں,ADV,16,,False,pending_context,ADJ/ADV,Not safely a standalone ADV; inspect context before accepting
+حتمی,ADJ,15,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+پرتشدد,ADJ,15,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+درآمدی,ADJ,15,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+غریب,ADJ,15,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ادھر,ADV,15,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+غالبا,ADV,15,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+قدیم,ADJ,14,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+سونا,VERB,14,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+تخلیقی,ADJ,14,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بدقسمتی,ADV,14,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+ہرگز,ADV,14,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+مستحکم,ADJ,13,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+مطمئن,ADJ,13,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+رکا,VERB,13,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پیلا,ADJ,13,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+آخرکار,ADV,13,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+تنہا,ADV,13,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+یکطرفہ,ADJ,13,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+خالی,ADJ,13,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+جھوٹا,ADJ,12,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+چنانچہ,ADV,12,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+پرسکون,ADJ,12,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+مجبورا,ADV,12,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+بالخصوص,ADV,12,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+سیکھا,VERB,12,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+ہلکا,ADJ,12,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+احتیاط,ADV,12,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+برآمدی,ADJ,11,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+غیرمعمولی,ADJ,11,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+عمدہ,ADJ,11,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بولا,VERB,11,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+نرم,ADJ,11,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+دوطرفہ,ADJ,11,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+تحقیقی,ADJ,11,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+رفتاری,ADV,11,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+سرخ,ADJ,11,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+غیرملکی,ADJ,10,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ناممکن,ADJ,10,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+سیدھا,ADJ,10,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+صوبائی,ADJ,10,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+رک,VERB,10,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پرامن,ADJ,10,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+نظریاتی,ADJ,10,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+منصفانہ,ADJ,10,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+سبز,ADJ,10,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+قیمتی,ADJ,9,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+پتلا,ADJ,9,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ور,ADJ,9,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+کبھار,ADV,9,,False,pending_context,PART_OF_EXPRESSION,Not safely a standalone ADV; inspect context before accepting
+زہریلا,ADJ,9,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+سنتے,VERB,9,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+عین,ADV,9,,False,pending_context,ADJ/ADV,Not safely a standalone ADV; inspect context before accepting
+سنجیدہ,ADJ,9,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+جمہوری,ADJ,9,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+قدرے,ADV,8,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+خشک,ADJ,8,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+تاریک,ADJ,8,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+خوشگوار,ADJ,8,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بارہا,ADV,8,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+روشن,ADJ,8,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+نامکمل,ADJ,7,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+سوتا,VERB,7,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+صدارتی,ADJ,7,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بیمار,ADJ,7,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بخود,ADV,7,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+بمشکل,ADV,6,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+اندرون,ADV,6,,False,pending_context,NOUN/POST,Not safely a standalone ADV; inspect context before accepting
+موٹا,ADJ,6,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+گمنام,ADJ,6,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ضلعی,ADJ,6,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+پارلیمانی,ADJ,6,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+مبہم,ADJ,6,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+سکھایا,VERB,6,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+جاگ,VERB,5,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+غیرضروری,ADJ,5,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ناخوش,ADJ,5,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+نامناسب,ADJ,5,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+پانچواں,ADJ,5,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+پیتے,VERB,5,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+کھولا,VERB,5,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+کالا,ADJ,5,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+پیداواری,ADJ,5,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+جزوی,ADV,5,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+بہرحال,ADV,5,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+اتفاقا,ADV,5,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+اصولی,ADJ,5,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+اندھیرا,ADJ,5,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+اولین,ADJ,5,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+بالواسطہ,ADV,4,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+دیہی,ADJ,4,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+فنی,ADJ,4,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+زرعی,ADJ,4,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+اداس,ADJ,3,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+سرد,ADJ,3,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+خارجی,ADJ,3,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ادبی,ADJ,3,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+اونچی,ADJ,3,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بدترین,ADJ,3,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بصری,ADJ,3,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+کھایا,VERB,3,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سراسر,ADV,3,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+دانستہ,ADV,3,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+بخوبی,ADV,3,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+گندا,ADJ,2,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+پختہ,ADJ,2,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+نیلا,ADJ,2,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+موسمی,ADJ,2,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+آمرانہ,ADJ,2,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ادھورا,ADJ,2,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+برقی,ADJ,2,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+صحافتی,ADJ,2,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+مربع,ADJ,2,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+اسوقت,ADV,2,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+دھیرے,ADV,2,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+پیتی,VERB,2,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پیا,VERB,2,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سنتی,VERB,2,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+چپکے,ADV,2,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+معنوں,ADV,2,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+غیرمنصفانہ,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+طورپر,ADV,1,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+شخصی,ADV,1,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+سویرے,ADV,1,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+لسانی,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+مہلک,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+ناخوشگوار,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+خودبخود,ADV,1,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+کدھر,ADV,1,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+یکدم,ADV,1,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+بیچا,VERB,1,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+بالائی,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+اونچے,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+انتخابی,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+نادانستہ,ADV,1,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+نامور,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بدصورت,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بیش,ADJ,1,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+بےچین,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+تجرباتی,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+تدریسی,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+دسواں,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+سچا,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بلاواسطہ,ADV,1,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+الوقت,ADV,1,,False,pending_context,PART_OF_EXPRESSION,Not safely a standalone ADV; inspect context before accepting
+آہستگی,ADV,1,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+صوتی,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+افسردہ,ADJ,1,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بلاوجہ,ADV,1,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+اٹھتے,VERB,0,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+لیتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پہنچتے,VERB,0,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+لگتے,VERB,0,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+آتی,VERB,0,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+آتے,VERB,0,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+لگتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+لکھنا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+لکھتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+ویسےہی,ADV,0,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+پرسوں,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+پہلےسے,ADV,0,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+پہنچنا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پیتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+لکھتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+نسبتاً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+نزدیکاً,ADV,0,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+مجبوراً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+لہٰذا,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+لاپروائی,ADV,0,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+لازمی,ADV,0,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+چلتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+چلتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+اٹھتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+یکبارگی,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+یکایک,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+یقینی,ADV,0,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+یقیناً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+گزرنا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+زیادہترین,ADJ,0,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+زرد,ADJ,0,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+گزارنا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+گزارتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+اٹھتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+گھٹتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+گھٹا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+ویسے,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+وقتاًفوقتاً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+وقتافوقتا,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+غیرآئینی,ADJ,0,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+شہریہ,ADJ,0,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+تہذیبی,ADJ,0,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+بیماریاں,ADJ,0,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+گھٹتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پہنچتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پہنچتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پکڑنا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پکڑتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+پکڑتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+کُلّی,ADV,0,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+کلی,ADV,0,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+کسیطرح,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+کسطرح,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+چاربار,ADV,0,,False,pending_context,COMPOUND,Not safely a standalone ADV; inspect context before accepting
+طورسے,ADV,0,,False,pending_context,COMPOUND,Not safely a standalone ADV; inspect context before accepting
+پہلےہی,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+رازدارانہ,ADJ,0,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+خصوصیاتی,ADJ,0,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+کھولتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+نہایت,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+نصفاً,ADV,0,,False,pending_context,ADV,Not safely a standalone ADV; inspect context before accepting
+عمومی,ADV,0,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+عموماً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+عملاً,ADV,0,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+عمداً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+عمدا,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+پیچھے,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+سوچتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سوچتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سوتے,VERB,0,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+سوتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سنتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سمجھنا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سمجھتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سمجھتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سمجھتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+رہتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+رہتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+رکھنا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+بنانا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+رکھتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+رکھتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+رکتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+رکتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+رکتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+روکنا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+روکتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+روکتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+روکتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+دیکھنا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+دیکھتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+دیکھتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+دیکھتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+رکھتے,VERB,0,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+ہارنا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+ہارتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+ہارتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+ہارتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+ہارا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+گے,VERB,0,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+گھٹنا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+گھٹتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+کھڑی,VERB,0,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+کھاتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+کھاتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+کروانا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+کرواتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سوچتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+کرواتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+ہوئی,VERB,0,,False,pending_context,contextual,"Can be noun, adjective, auxiliary, or light-verb component depending on context"
+سیکھنا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سیکھتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سیکھتی,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سیکھتا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سکھانا,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+سکھاتے,VERB,0,VERB,False,reviewed_lexical,,Recognizable Urdu verbal form; contextual usage still requires checking
+بڑے,ADJ,0,,False,pending_context,contextual,"Polyfunctional, fragment, or questionable surface form"
+روزبروز,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+دیرسے,ADV,0,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+باہرون,ADV,0,,False,pending_context,INVALID,Not safely a standalone ADV; inspect context before accepting
+بالضرور,ADV,0,,False,pending_context,REVIEW,Not safely a standalone ADV; inspect context before accepting
+باربار,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+بآسانی,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+ایکبار,ADV,0,,False,pending_context,COMPOUND,Not safely a standalone ADV; inspect context before accepting
+ایسےہی,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+ایسے,ADV,0,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+اکیلے,ADV,0,,False,pending_context,ADJ/ADV,Not safely a standalone ADV; inspect context before accepting
+اچھےسے,ADV,0,,False,pending_context,COMPOUND,Not safely a standalone ADV; inspect context before accepting
+جلدازجلد,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+لامحدود,ADJ,0,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+گیلا,ADJ,0,ADJ,False,reviewed_lexical,,Common adjectival lexical entry; contextual usage still requires checking
+جابجا,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+اسطرح,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+اسبار,ADV,0,,False,pending_context,COMPOUND,Not safely a standalone ADV; inspect context before accepting
+اختیاری,ADV,0,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+احتیاطاً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+احتیاطا,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+اتنے,ADV,0,,False,pending_context,DET/ADV,Not safely a standalone ADV; inspect context before accepting
+اتنی,ADV,0,,False,pending_context,DET/ADV,Not safely a standalone ADV; inspect context before accepting
+اتناہی,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+اتفاقاً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+بناپر,ADV,0,,False,pending_context,COMPOUND,Not safely a standalone ADV; inspect context before accepting
+قربتاً,ADV,0,,False,pending_context,ADV,Not safely a standalone ADV; inspect context before accepting
+فوراً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+غالباً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+عیناً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+ہرکہیں,ADV,0,,False,pending_context,COMPOUND,Not safely a standalone ADV; inspect context before accepting
+ہرطرح,ADV,0,,False,pending_context,COMPOUND,Not safely a standalone ADV; inspect context before accepting
+کیسےنہیں,ADV,0,,False,pending_context,COMPOUND,Not safely a standalone ADV; inspect context before accepting
+کیسے,ADV,0,,False,pending_context,ADV,Not safely a standalone ADV; inspect context before accepting
+تمامتر,ADV,0,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+تصادفاً,ADV,0,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+تصادفا,ADV,0,,False,pending_context,contextual / expression / uncertain,Not safely a standalone ADV; inspect context before accepting
+بےوجہ,ADV,0,,False,pending_context,ADV,Not safely a standalone ADV; inspect context before accepting
+بےسبب,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+بےدھڑک,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+بےحد,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+بےجھجھک,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+شدیداً,ADV,0,,False,pending_context,ADV,Not safely a standalone ADV; inspect context before accepting
+دوردراز,ADV,0,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+درستگی,ADV,0,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+خوشبختی,ADV,0,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+خصوصاً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+سامنے,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+تقریباً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+بعضا,ADV,0,,False,pending_context,REVIEW,Not safely a standalone ADV; inspect context before accepting
+بعدمیں,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+بسااوقات,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+شایدہی,ADV,0,,False,pending_context,COMPOUND,Not safely a standalone ADV; inspect context before accepting
+شاذونادر,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+اسیوقت,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+اسلیے,ADV,0,,False,pending_context,CONJ/COMPOUND,Not safely a standalone ADV; inspect context before accepting
+اسقدر,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+آگےچلکر,ADV,0,,False,pending_context,COMPOUND,Not safely a standalone ADV; inspect context before accepting
+جسطرح,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+جدھر,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+جداجدا,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+جتنے,ADV,0,,False,pending_context,DET/ADV,Not safely a standalone ADV; inspect context before accepting
+جتنی,ADV,0,,False,pending_context,DET/ADV,Not safely a standalone ADV; inspect context before accepting
+بدبختی,ADV,0,,False,pending_context,NOUN,Not safely a standalone ADV; inspect context before accepting
+بخوشی,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+اوپری,ADV,0,,False,pending_context,ADJ,Not safely a standalone ADV; inspect context before accepting
+الفور,ADV,0,,False,pending_context,PART_OF_EXPRESSION,Not safely a standalone ADV; inspect context before accepting
+اصولاً,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+اصولا,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking
+بحرحال,ADV,0,ADV,False,reviewed_lexical,,Common adverbial lexical use; contextual usage still requires checking

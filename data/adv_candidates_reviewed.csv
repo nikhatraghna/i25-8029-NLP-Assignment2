@@ -1,0 +1,266 @@
+﻿token,suggested_pos,corpus_frequency,verified_pos,review_status,review_notes
+دو,ADV,463,,not_accepted,Likely NUM/VERB; do not count as ADV
+غیر,ADV,395,,not_accepted,Likely ADJ/prefix; do not count as ADV
+جہاں,ADV,329,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+تین,ADV,321,,not_accepted,Likely NUM; do not count as ADV
+بار,ADV,308,,not_accepted,Likely NOUN; do not count as ADV
+روز,ADV,198,,context_required,"Possible adverbial use, context required"
+واضح,ADV,195,,context_required,"Possible adverbial use, context required"
+اتنا,ADV,194,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+دور,ADV,179,,context_required,"Possible adverbial use, context required"
+ضروری,ADV,177,,not_accepted,Likely ADJ; do not count as ADV
+قانونی,ADV,173,,not_accepted,Likely ADJ; do not count as ADV
+کیوں,ADV,173,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+باہر,ADV,169,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+شاید,ADV,163,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+بین,ADV,162,,not_accepted,Likely modifier; do not count as ADV
+جگہ,ADV,159,,not_accepted,Likely NOUN; do not count as ADV
+قریب,ADV,142,,context_required,"Possible adverbial use, context required"
+الاقوامی,ADV,140,,not_accepted,Likely ADJ; do not count as ADV
+کافی,ADV,136,,context_required,"Possible adverbial use, context required"
+ہفتہ,ADV,131,,not_accepted,Likely NOUN; do not count as ADV
+کس,ADV,127,,not_accepted,Likely PRON/DET; do not count as ADV
+اندر,ADV,123,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+انتہائی,ADV,119,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+طبی,ADV,119,,not_accepted,Likely ADJ; do not count as ADV
+بنیادی,ADV,113,,not_accepted,Likely ADJ; do not count as ADV
+عملا,ADV,111,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+ممکنہ,ADV,111,,not_accepted,Likely ADJ; do not count as ADV
+مسلسل,ADV,103,,context_required,"Possible adverbial use, context required"
+آگے,ADV,102,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+مبینہ,ADV,98,,not_accepted,Likely ADJ; do not count as ADV
+رات,ADV,91,,context_required,"Possible adverbial use, context required"
+فی,ADV,91,,context_required,"Possible adverbial use, context required"
+یقینا,ADV,91,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+بظاہر,ADV,84,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+تیزی,ADV,80,,context_required,"Possible adverbial use, context required"
+الگ,ADV,79,,context_required,"Possible adverbial use, context required"
+براہ,ADV,78,,not_accepted,Likely POST/phrase; do not count as ADV
+خصوصا,ADV,77,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+مجموعی,ADV,77,,not_accepted,Likely ADJ; do not count as ADV
+محض,ADV,75,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+ضرور,ADV,72,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+عموما,ADV,68,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+آخر,ADV,67,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+ذاتی,ADV,67,,not_accepted,Likely ADJ; do not count as ADV
+راست,ADV,66,,not_accepted,Likely ADJ; do not count as ADV
+واقعی,ADV,63,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+جسمانی,ADV,61,,not_accepted,Likely ADJ; do not count as ADV
+خوش,ADV,61,,not_accepted,Likely ADJ; do not count as ADV
+یوں,ADV,60,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+مشترکہ,ADV,59,,not_accepted,Likely ADJ; do not count as ADV
+نسبتا,ADV,53,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+اچانک,ADV,52,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+دیر,ADV,50,,context_required,"Possible adverbial use, context required"
+وار,ADV,49,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+کہاں,ADV,49,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+اوقات,ADV,47,,not_accepted,Likely NOUN; do not count as ADV
+تب,ADV,47,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+صبح,ADV,47,,context_required,"Possible adverbial use, context required"
+حیثیت,ADV,45,,not_accepted,Likely NOUN; do not count as ADV
+حقیقی,ADV,44,,not_accepted,Likely ADJ; do not count as ADV
+جتنا,ADV,43,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+آہستہ,ADV,41,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+اوپر,ADV,41,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+سماجی,ADV,41,,not_accepted,Likely ADJ; do not count as ADV
+برابر,ADV,40,,context_required,"Possible adverbial use, context required"
+روزانہ,ADV,38,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+لہذا,ADV,38,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+شام,ADV,37,,context_required,"Possible adverbial use, context required"
+غلطی,ADV,37,,not_accepted,Likely NOUN; do not count as ADV
+ذہنی,ADV,36,,not_accepted,Likely ADJ; do not count as ADV
+باضابطہ,ADV,35,,context_required,"Possible adverbial use, context required"
+بالآخر,ADV,35,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+خاصا,ADV,34,,context_required,"Possible adverbial use, context required"
+صاف,ADV,34,,not_accepted,Likely ADJ; do not count as ADV
+کھلا,ADV,34,,not_accepted,Likely ADJ/VERB; do not count as ADV
+خوشی,ADV,33,,not_accepted,Likely NOUN; do not count as ADV
+تاریخی,ADV,32,,not_accepted,Likely ADJ; do not count as ADV
+بیرونی,ADV,29,,not_accepted,Likely ADJ; do not count as ADV
+جلدی,ADV,29,,context_required,"Possible adverbial use, context required"
+سست,ADV,29,,not_accepted,Likely ADJ; do not count as ADV
+نزدیک,ADV,29,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+کب,ADV,29,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+متوقع,ADV,26,,not_accepted,Likely ADJ; do not count as ADV
+الحال,ADV,25,,context_required,"Possible adverbial use, context required"
+آسانی,ADV,24,,not_accepted,Likely NOUN; do not count as ADV
+دائیں,ADV,22,,context_required,"Possible adverbial use, context required"
+لازما,ADV,22,,context_required,"Possible adverbial use, context required"
+کھل,ADV,22,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+ثقافتی,ADV,20,,not_accepted,Likely ADJ; do not count as ADV
+روزمرہ,ADV,20,,context_required,"Possible adverbial use, context required"
+سائنسی,ADV,20,,not_accepted,Likely ADJ; do not count as ADV
+آدھا,ADV,18,,not_accepted,Likely ADJ/NUM; do not count as ADV
+اندرونی,ADV,17,,not_accepted,Likely ADJ; do not count as ADV
+انفرادی,ADV,17,,not_accepted,Likely ADJ; do not count as ADV
+خاموشی,ADV,17,,not_accepted,Likely NOUN; do not count as ADV
+گزشتہ,ADV,17,,not_accepted,Likely ADJ; do not count as ADV
+بائیں,ADV,16,,context_required,"Possible adverbial use, context required"
+ماہانہ,ADV,16,,context_required,"Possible adverbial use, context required"
+نفسیاتی,ADV,16,,not_accepted,Likely ADJ; do not count as ADV
+ادھر,ADV,15,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+رسمی,ADV,15,,not_accepted,Likely ADJ; do not count as ADV
+غالبا,ADV,15,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+اخلاقی,ADV,14,,not_accepted,Likely ADJ; do not count as ADV
+بدقسمتی,ADV,14,,not_accepted,Likely NOUN; do not count as ADV
+ہرگز,ADV,14,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+آخرکار,ADV,13,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+اجتماعی,ADV,13,,not_accepted,Likely ADJ; do not count as ADV
+تنہا,ADV,13,,context_required,"Possible adverbial use, context required"
+سالانہ,ADV,13,,context_required,"Possible adverbial use, context required"
+یکساں,ADV,13,,context_required,"Possible adverbial use, context required"
+احتیاط,ADV,12,,not_accepted,Likely NOUN; do not count as ADV
+بالخصوص,ADV,12,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+مجبورا,ADV,12,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+چنانچہ,ADV,12,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+رفتاری,ADV,11,,not_accepted,Likely NOUN; do not count as ADV
+خصوصی,ADV,10,,not_accepted,Likely ADJ; do not count as ADV
+عین,ADV,9,,context_required,"Possible adverbial use, context required"
+کبھار,ADV,9,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+بارہا,ADV,8,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+قدرے,ADV,8,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+بخود,ADV,7,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+اندرون,ADV,6,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+بمشکل,ADV,6,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+اتفاقا,ADV,5,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+بہرحال,ADV,5,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+جزوی,ADV,5,,not_accepted,Likely ADJ; do not count as ADV
+علیحدہ,ADV,5,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+بالواسطہ,ADV,4,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+معاشرتی,ADV,4,,not_accepted,Likely ADJ; do not count as ADV
+بخوبی,ADV,3,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+دانستہ,ADV,3,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+سراسر,ADV,3,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+متواتر,ADV,3,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+اسوقت,ADV,2,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+دھیرے,ADV,2,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+معنوں,ADV,2,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+چپکے,ADV,2,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+آہستگی,ADV,1,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+الوقت,ADV,1,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+بلاواسطہ,ADV,1,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+بلاوجہ,ADV,1,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+خودبخود,ADV,1,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+سویرے,ADV,1,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+شخصی,ADV,1,,not_accepted,Likely ADJ; do not count as ADV
+طورپر,ADV,1,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+علانیہ,ADV,1,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+عملی,ADV,1,,not_accepted,Likely ADJ; do not count as ADV
+غیررسمی,ADV,1,,not_accepted,Likely ADJ; do not count as ADV
+غیرقانونی,ADV,1,,not_accepted,Likely ADJ; do not count as ADV
+نادانستہ,ADV,1,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+کدھر,ADV,1,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+یکدم,ADV,1,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+آگےچلکر,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+اتفاقاً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+اتناہی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+اتنی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+اتنے,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+احتیاطا,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+احتیاطاً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+اختیاری,ADV,0,,not_accepted,Likely ADJ; do not count as ADV
+اسبار,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+اسطرح,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+اسقدر,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+اسلیے,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+اسیوقت,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+اصولا,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+اصولاً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+الفور,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+اوپری,ADV,0,,not_accepted,Likely ADJ; do not count as ADV
+اچھےسے,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+اکیلے,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+ایسے,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+ایسےہی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+ایکبار,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+بآسانی,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+باربار,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+بالضرور,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+باہرون,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+بحرحال,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+بخوشی,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+بدبختی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+بسااوقات,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+بعدمیں,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+بعضا,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+بناپر,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+بےجھجھک,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+بےحد,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+بےدھڑک,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+بےسبب,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+بےوجہ,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+تصادفا,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+تصادفاً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+تقریباً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+تمامتر,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+جابجا,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+جتنی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+جتنے,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+جداجدا,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+جدھر,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+جسطرح,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+جلدازجلد,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+جہاںتک,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+حدتک,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+حددرجہ,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+حقیقتاً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+خاصوصاً,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+خصوصاً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+خوشبختی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+درستگی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+دوردراز,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+دیرسے,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+روزبروز,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+زیریں,ADV,0,,not_accepted,Likely ADJ; do not count as ADV
+سامنے,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+شاذونادر,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+شایدہی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+شدیداً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+طورسے,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+عمدا,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+عمداً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+عملاً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+عموماً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+عمومی,ADV,0,,not_accepted,Likely ADJ; do not count as ADV
+عیناً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+غالباً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+فوراً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+فوری,ADV,0,,context_required,"Possible adverbial use, context required"
+قربتاً,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+قریباً,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+قسمتی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+قطعا,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+قطعاً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+لازماً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+لازمی,ADV,0,,not_accepted,Likely ADJ; do not count as ADV
+لاپروائی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+لہٰذا,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+مجبوراً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+نزدیکاً,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+نسبتاً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+نصفاً,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+نہایت,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+نیچے,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+وقتافوقتا,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+وقتاًفوقتاً,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+ویسے,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+ویسےہی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+پرسوں,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+پہلےسے,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+پہلےہی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+پیچھے,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+چاربار,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+کسطرح,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+کسیطرح,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+کلی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+کُلّی,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+کھلم,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+کہیں,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+کیسے,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+کیسےنہیں,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+ہرطرح,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+ہرکہیں,ADV,0,,not_accepted,"Unverified: may be malformed compound, other POS, or context-dependent"
+یقیناً,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+یقینی,ADV,0,,not_accepted,Likely ADJ; do not count as ADV
+یکایک,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
+یکبارگی,ADV,0,ADV,lexically_reviewed_adv,Single-word adverbial use; inspect corpus contexts before gold labeling
