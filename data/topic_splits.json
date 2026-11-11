@@ -1,0 +1,1321 @@
+{
+  "topics": [
+    "Politics",
+    "Sports",
+    "Economy",
+    "International",
+    "Health & Society"
+  ],
+  "split_seed": 42,
+  "labels_source": "keyword-derived weak metadata labels",
+  "splits": {
+    "train": [
+      {
+        "article_id": 15,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 29,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 177,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 202,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 16,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 201,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 72,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 139,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 85,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 25,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 121,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 193,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 175,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 99,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 242,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 114,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 115,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 249,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 174,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 51,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 227,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 246,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 141,
+        "topic": "International",
+        "needs_review": true
+      },
+      {
+        "article_id": 159,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 223,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 207,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 169,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 102,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 7,
+        "topic": "International",
+        "needs_review": true
+      },
+      {
+        "article_id": 160,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 140,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 43,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 238,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 243,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 38,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 75,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 39,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 245,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 137,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 22,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 120,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 176,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 162,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 136,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 179,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 23,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 189,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 27,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 73,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 40,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 123,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 178,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 90,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 95,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 71,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 241,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 183,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 161,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 215,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 45,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 56,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 74,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 3,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 100,
+        "topic": "Sports",
+        "needs_review": true
+      },
+      {
+        "article_id": 87,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 180,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 54,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 63,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 166,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 203,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 33,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 106,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 125,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 64,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 145,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 255,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 200,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 134,
+        "topic": "International",
+        "needs_review": true
+      },
+      {
+        "article_id": 109,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 131,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 251,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 221,
+        "topic": "International",
+        "needs_review": true
+      },
+      {
+        "article_id": 154,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 191,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 254,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 37,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 170,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 163,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 244,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 81,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 65,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 119,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 158,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 35,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 149,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 236,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 108,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 110,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 210,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 26,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 190,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 150,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 1,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 234,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 198,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 206,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 219,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 68,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 228,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 127,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 61,
+        "topic": "Sports",
+        "needs_review": true
+      },
+      {
+        "article_id": 103,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 157,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 214,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 117,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 122,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 211,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 83,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 197,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 147,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 222,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 237,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 24,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 52,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 252,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 153,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 44,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 101,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 104,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 220,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 111,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 218,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 17,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 146,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 77,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 9,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 70,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 10,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 92,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 118,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 80,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 192,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 21,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 11,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 164,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 173,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 209,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 167,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 256,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 196,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 225,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 132,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 41,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 78,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 130,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 88,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 93,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 155,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 31,
+        "topic": "Sports",
+        "needs_review": true
+      },
+      {
+        "article_id": 156,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 229,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 14,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 204,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 232,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 67,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 12,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 5,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 34,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 148,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 258,
+        "topic": "International",
+        "needs_review": true
+      },
+      {
+        "article_id": 250,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 82,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 230,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 89,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 8,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 53,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 98,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 247,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 20,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 138,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 172,
+        "topic": "Health & Society",
+        "needs_review": false
+      }
+    ],
+    "val": [
+      {
+        "article_id": 18,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 142,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 151,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 195,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 181,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 205,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 4,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 66,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 187,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 240,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 47,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 97,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 257,
+        "topic": "International",
+        "needs_review": true
+      },
+      {
+        "article_id": 212,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 144,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 199,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 79,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 231,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 260,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 55,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 124,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 32,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 143,
+        "topic": "Health & Society",
+        "needs_review": true
+      },
+      {
+        "article_id": 96,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 60,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 133,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 112,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 36,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 116,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 42,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 216,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 6,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 28,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 76,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 233,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 69,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 62,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 226,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 129,
+        "topic": "Health & Society",
+        "needs_review": false
+      }
+    ],
+    "test": [
+      {
+        "article_id": 19,
+        "topic": "Economy",
+        "needs_review": true
+      },
+      {
+        "article_id": 46,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 259,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 128,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 48,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 94,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 105,
+        "topic": "International",
+        "needs_review": true
+      },
+      {
+        "article_id": 208,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 2,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 235,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 248,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 59,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 186,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 239,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 30,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 49,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 213,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 58,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 253,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 152,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 84,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 91,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 135,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 13,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 185,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 182,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 168,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 171,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 217,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 184,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 126,
+        "topic": "International",
+        "needs_review": false
+      },
+      {
+        "article_id": 50,
+        "topic": "Economy",
+        "needs_review": false
+      },
+      {
+        "article_id": 194,
+        "topic": "Health & Society",
+        "needs_review": false
+      },
+      {
+        "article_id": 224,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 113,
+        "topic": "Politics",
+        "needs_review": false
+      },
+      {
+        "article_id": 57,
+        "topic": "Sports",
+        "needs_review": false
+      },
+      {
+        "article_id": 188,
+        "topic": "Politics",
+        "needs_review": true
+      },
+      {
+        "article_id": 107,
+        "topic": "International",
+        "needs_review": true
+      },
+      {
+        "article_id": 86,
+        "topic": "Health & Society",
+        "needs_review": false
+      }
+    ]
+  },
+  "excluded": [
+    {
+      "article_id": 165,
+      "reason": "missing_or_invalid_topic",
+      "topic": null
+    }
+  ]
+}
