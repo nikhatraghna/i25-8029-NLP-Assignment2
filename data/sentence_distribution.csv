@@ -1,0 +1,10 @@
+﻿split,topic,count
+train,Health & Society,122
+train,International,118
+train,Sports,110
+val,Health & Society,26
+val,International,25
+val,Sports,24
+test,Health & Society,26
+test,International,25
+test,Sports,24
