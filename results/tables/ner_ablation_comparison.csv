@@ -1,0 +1,5 @@
+Experiment,Best epoch,Validation entity-F1
+A1_unidirectional,9,0.4761904761904762
+A2_no_dropout,15,0.6428571428571429
+A3_random_embeddings,8,0.7200000000000001
+A4_no_crf,22,0.6428571428571429

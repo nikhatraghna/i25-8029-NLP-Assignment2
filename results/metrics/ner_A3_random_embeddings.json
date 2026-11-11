@@ -1,0 +1,164 @@
+{
+  "experiment": "A3_random_embeddings",
+  "best_epoch": 8,
+  "best_val_entity_f1": 0.7200000000000001,
+  "configuration": {
+    "bidirectional": true,
+    "dropout": 0.5,
+    "random_embeddings": true,
+    "use_crf": true
+  },
+  "sampling_info": {
+    "train_sentences": 350,
+    "entity_sentences": 77,
+    "non_entity_sentences": 273,
+    "sampling": "approximately 50/50 by sentence group"
+  },
+  "embedding_info": {
+    "source": "random"
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 27.549006310376253,
+      "val_precision": 0.0,
+      "val_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 2,
+      "train_loss": 6.031178127635609,
+      "val_precision": 0.0,
+      "val_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 3,
+      "train_loss": 4.490202876654538,
+      "val_precision": 1.0,
+      "val_recall": 0.35714285714285715,
+      "val_entity_f1": 0.5263157894736842,
+      "val_tp": 5,
+      "val_fp": 0,
+      "val_fn": 9
+    },
+    {
+      "epoch": 4,
+      "train_loss": 3.0895037705248054,
+      "val_precision": 0.7142857142857143,
+      "val_recall": 0.35714285714285715,
+      "val_entity_f1": 0.4761904761904762,
+      "val_tp": 5,
+      "val_fp": 2,
+      "val_fn": 9
+    },
+    {
+      "epoch": 5,
+      "train_loss": 2.793245716528459,
+      "val_precision": 0.6666666666666666,
+      "val_recall": 0.42857142857142855,
+      "val_entity_f1": 0.5217391304347826,
+      "val_tp": 6,
+      "val_fp": 3,
+      "val_fn": 8
+    },
+    {
+      "epoch": 6,
+      "train_loss": 2.311832834373821,
+      "val_precision": 0.6666666666666666,
+      "val_recall": 0.5714285714285714,
+      "val_entity_f1": 0.6153846153846153,
+      "val_tp": 8,
+      "val_fp": 4,
+      "val_fn": 6
+    },
+    {
+      "epoch": 7,
+      "train_loss": 1.644598825411363,
+      "val_precision": 0.6153846153846154,
+      "val_recall": 0.5714285714285714,
+      "val_entity_f1": 0.5925925925925927,
+      "val_tp": 8,
+      "val_fp": 5,
+      "val_fn": 6
+    },
+    {
+      "epoch": 8,
+      "train_loss": 1.2992057529362766,
+      "val_precision": 0.8181818181818182,
+      "val_recall": 0.6428571428571429,
+      "val_entity_f1": 0.7200000000000001,
+      "val_tp": 9,
+      "val_fp": 2,
+      "val_fn": 5
+    },
+    {
+      "epoch": 9,
+      "train_loss": 1.1274112476543947,
+      "val_precision": 0.8,
+      "val_recall": 0.5714285714285714,
+      "val_entity_f1": 0.6666666666666666,
+      "val_tp": 8,
+      "val_fp": 2,
+      "val_fn": 6
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.9430513463237069,
+      "val_precision": 0.8,
+      "val_recall": 0.5714285714285714,
+      "val_entity_f1": 0.6666666666666666,
+      "val_tp": 8,
+      "val_fp": 2,
+      "val_fn": 6
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.6225337108427828,
+      "val_precision": 0.7272727272727273,
+      "val_recall": 0.5714285714285714,
+      "val_entity_f1": 0.64,
+      "val_tp": 8,
+      "val_fp": 3,
+      "val_fn": 6
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.5842759981751442,
+      "val_precision": 0.8,
+      "val_recall": 0.5714285714285714,
+      "val_entity_f1": 0.6666666666666666,
+      "val_tp": 8,
+      "val_fp": 2,
+      "val_fn": 6
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.33093236860903824,
+      "val_precision": 0.8,
+      "val_recall": 0.5714285714285714,
+      "val_entity_f1": 0.6666666666666666,
+      "val_tp": 8,
+      "val_fp": 2,
+      "val_fn": 6
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.32961905815384607,
+      "val_precision": 0.8,
+      "val_recall": 0.5714285714285714,
+      "val_entity_f1": 0.6666666666666666,
+      "val_tp": 8,
+      "val_fp": 2,
+      "val_fn": 6
+    }
+  ],
+  "checkpoint": "/content/i25-8029-NLP-Assignment2/models/ner_A3_random_embeddings.pt",
+  "label_provenance": "provisional gazetteer annotations"
+}

@@ -1,0 +1,180 @@
+{
+  "experiment": "A1_unidirectional",
+  "best_epoch": 9,
+  "best_val_entity_f1": 0.4761904761904762,
+  "configuration": {
+    "bidirectional": false,
+    "dropout": 0.5,
+    "random_embeddings": false,
+    "use_crf": true
+  },
+  "sampling_info": {
+    "train_sentences": 350,
+    "entity_sentences": 77,
+    "non_entity_sentences": 273,
+    "sampling": "approximately 50/50 by sentence group"
+  },
+  "embedding_info": {
+    "vocabulary_size": 2163,
+    "covered_words": 2106,
+    "coverage_percent": 97.36,
+    "source_matrix_shape": [
+      10000,
+      100
+    ]
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 36.306922002272174,
+      "val_precision": 0.0,
+      "val_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 2,
+      "train_loss": 8.436420115557583,
+      "val_precision": 0.0,
+      "val_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 3,
+      "train_loss": 6.812809218059886,
+      "val_precision": 0.0,
+      "val_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 4,
+      "train_loss": 6.008684212511236,
+      "val_precision": 0.0,
+      "val_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 5,
+      "train_loss": 6.388022314418446,
+      "val_precision": 0.0,
+      "val_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 6,
+      "train_loss": 5.713341842998158,
+      "val_precision": 0.0,
+      "val_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 7,
+      "train_loss": 4.504719333215193,
+      "val_precision": 0.0,
+      "val_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 8,
+      "train_loss": 3.3786297169598667,
+      "val_precision": 0.0,
+      "val_recall": 0.0,
+      "val_entity_f1": 0.0,
+      "val_tp": 0,
+      "val_fp": 0,
+      "val_fn": 14
+    },
+    {
+      "epoch": 9,
+      "train_loss": 2.7536185708912937,
+      "val_precision": 0.7142857142857143,
+      "val_recall": 0.35714285714285715,
+      "val_entity_f1": 0.4761904761904762,
+      "val_tp": 5,
+      "val_fp": 2,
+      "val_fn": 9
+    },
+    {
+      "epoch": 10,
+      "train_loss": 2.2778445807370273,
+      "val_precision": 0.625,
+      "val_recall": 0.35714285714285715,
+      "val_entity_f1": 0.45454545454545453,
+      "val_tp": 5,
+      "val_fp": 3,
+      "val_fn": 9
+    },
+    {
+      "epoch": 11,
+      "train_loss": 2.148236112161116,
+      "val_precision": 0.3157894736842105,
+      "val_recall": 0.42857142857142855,
+      "val_entity_f1": 0.36363636363636365,
+      "val_tp": 6,
+      "val_fp": 13,
+      "val_fn": 8
+    },
+    {
+      "epoch": 12,
+      "train_loss": 1.9826142408631064,
+      "val_precision": 0.25,
+      "val_recall": 0.35714285714285715,
+      "val_entity_f1": 0.2941176470588235,
+      "val_tp": 5,
+      "val_fp": 15,
+      "val_fn": 9
+    },
+    {
+      "epoch": 13,
+      "train_loss": 1.7995260086926548,
+      "val_precision": 0.3157894736842105,
+      "val_recall": 0.42857142857142855,
+      "val_entity_f1": 0.36363636363636365,
+      "val_tp": 6,
+      "val_fp": 13,
+      "val_fn": 8
+    },
+    {
+      "epoch": 14,
+      "train_loss": 1.4713570421392268,
+      "val_precision": 0.3157894736842105,
+      "val_recall": 0.42857142857142855,
+      "val_entity_f1": 0.36363636363636365,
+      "val_tp": 6,
+      "val_fp": 13,
+      "val_fn": 8
+    },
+    {
+      "epoch": 15,
+      "train_loss": 1.444811539216475,
+      "val_precision": 0.375,
+      "val_recall": 0.42857142857142855,
+      "val_entity_f1": 0.39999999999999997,
+      "val_tp": 6,
+      "val_fp": 10,
+      "val_fn": 8
+    }
+  ],
+  "checkpoint": "/content/i25-8029-NLP-Assignment2/models/ner_A1_unidirectional.pt",
+  "label_provenance": "provisional gazetteer annotations"
+}
