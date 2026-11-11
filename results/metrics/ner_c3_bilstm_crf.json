@@ -1,0 +1,72 @@
+{
+  "run_name": "ner_c3_bilstm_crf",
+  "best_epoch": 1,
+  "best_val_entity_f1": 0.0,
+  "embedding_info": {
+    "vocabulary_size": 2163,
+    "covered_words": 2106,
+    "coverage_percent": 97.36,
+    "source_matrix_shape": [
+      10000,
+      100
+    ]
+  },
+  "config": {
+    "task": "ner",
+    "use_crf": true,
+    "freeze_embeddings": false,
+    "bidirectional": true,
+    "dropout": 0.5,
+    "random_embeddings": false,
+    "embedding_dim": 100,
+    "hidden_size": 128,
+    "num_layers": 2,
+    "seed": 42
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 24.353572636842728,
+      "val_entity_precision": 0.0,
+      "val_entity_recall": 0.0,
+      "val_entity_f1": 0.0
+    },
+    {
+      "epoch": 2,
+      "train_loss": 3.317785544828935,
+      "val_entity_precision": 0.0,
+      "val_entity_recall": 0.0,
+      "val_entity_f1": 0.0
+    },
+    {
+      "epoch": 3,
+      "train_loss": 2.8675660653547808,
+      "val_entity_precision": 0.0,
+      "val_entity_recall": 0.0,
+      "val_entity_f1": 0.0
+    },
+    {
+      "epoch": 4,
+      "train_loss": 2.4472292390736667,
+      "val_entity_precision": 0.0,
+      "val_entity_recall": 0.0,
+      "val_entity_f1": 0.0
+    },
+    {
+      "epoch": 5,
+      "train_loss": 1.9862799021330746,
+      "val_entity_precision": 0.0,
+      "val_entity_recall": 0.0,
+      "val_entity_f1": 0.0
+    },
+    {
+      "epoch": 6,
+      "train_loss": 1.5821691290898756,
+      "val_entity_precision": 0.0,
+      "val_entity_recall": 0.0,
+      "val_entity_f1": 0.0
+    }
+  ],
+  "checkpoint": "/content/i25-8029-NLP-Assignment2/models/ner_c3_bilstm_crf.pt",
+  "evaluation_note": "Entity-level validation against provisional gazetteer-generated NER reference labels."
+}
