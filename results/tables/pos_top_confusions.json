@@ -1,0 +1,71 @@
+[
+  {
+    "gold_tag": "UNK",
+    "predicted_tag": "NOUN",
+    "count": 93,
+    "examples": [
+      {
+        "sentence_id": 148,
+        "token_index": 10,
+        "token": "ٹائٹل",
+        "gold_tag": "UNK",
+        "predicted_tag": "NOUN",
+        "sentence": "<NUM> میں ورلڈ کپ جیت کے بعد وہ کوئی بڑا ٹائٹل نہیں جیت سکا تھا ۔"
+      },
+      {
+        "sentence_id": 133,
+        "token_index": 3,
+        "token": "دریافت",
+        "gold_tag": "UNK",
+        "predicted_tag": "NOUN",
+        "sentence": "محمد آصف کی دریافت کا سہرا بھی عاقب جاوید کے سر جاتا ہے جنھ نے عہد در عہد پاکستان کے لیے کئی ایک بہترین ٹیلنٹ دریافت کیا ہیں ۔"
+      }
+    ]
+  },
+  {
+    "gold_tag": "UNK",
+    "predicted_tag": "ADJ",
+    "count": 13,
+    "examples": [
+      {
+        "sentence_id": 59,
+        "token_index": 3,
+        "token": "باڈی",
+        "gold_tag": "UNK",
+        "predicted_tag": "ADJ",
+        "sentence": "<NUM> سالہ ایک باڈی بلڈر کی مرکزی کورونری شریان میں <NUM> فیصد سے زیادہ رکاوٹ پائی گیا ، حالانکہ اس کے خاندان میں دل کی بیماری کی کوئی معلوم تاریخ نہیں تھا ۔"
+      },
+      {
+        "sentence_id": 381,
+        "token_index": 36,
+        "token": "کامیاب",
+        "gold_tag": "UNK",
+        "predicted_tag": "ADJ",
+        "sentence": "ممکن ہے کہ انگلینڈ نے خود کو ایسا پوزیشن میں پہنچا لیا ہو جہاں سے وہ یہ میچ اور سیریز جیت سکتا ہے ، جو برائیڈن کارس تنازع کے باعث پریشان کن ہفتہ کے بعد ایک کامیاب اختتام ہوگا ۔"
+      }
+    ]
+  },
+  {
+    "gold_tag": "NOUN",
+    "predicted_tag": "UNK",
+    "count": 9,
+    "examples": [
+      {
+        "sentence_id": 45,
+        "token_index": 17,
+        "token": "پروگرام",
+        "gold_tag": "NOUN",
+        "predicted_tag": "UNK",
+        "sentence": "وہ کہتا ہیں یہ کیسا ممکن تھا کہ لوگ کی مدد کے لیے بنایا گیا اے آئا پروگرام آپ کو ایسا چیز بتا سکتا ہے ؟"
+      },
+      {
+        "sentence_id": 357,
+        "token_index": 8,
+        "token": "پروگرام",
+        "gold_tag": "NOUN",
+        "predicted_tag": "UNK",
+        "sentence": "انھوں نے گذشتہ سال کہا تھا کہ اس پروگرام کے لیے ابتدائی طور پر <NUM> ارب ڈالر درکار ہوں گا جبکہ مجموعی لاگت وقت کے ساتھ <NUM> ارب ڈالر تک پہنچا گا ۔"
+      }
+    ]
+  }
+]
