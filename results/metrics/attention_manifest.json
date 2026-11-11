@@ -1,0 +1,68 @@
+[
+  {
+    "article_id": 128,
+    "title": "کیا افغانستان میں ہزارہ اور شیعہ حمایت رکھنے والا طالبان مخالف مسلح گروہ سر اٹھا رہا ہے؟",
+    "topic": "Politics",
+    "predicted_topic": "Politics",
+    "needs_review": false,
+    "head": 1,
+    "visible_tokens": 24,
+    "path": "/content/i25-8029-NLP-Assignment2/results/plots/attention/attention_article_128_head_1.png",
+    "note": "Cropped view of final-layer attention computed over the full article input."
+  },
+  {
+    "article_id": 128,
+    "title": "کیا افغانستان میں ہزارہ اور شیعہ حمایت رکھنے والا طالبان مخالف مسلح گروہ سر اٹھا رہا ہے؟",
+    "topic": "Politics",
+    "predicted_topic": "Politics",
+    "needs_review": false,
+    "head": 2,
+    "visible_tokens": 24,
+    "path": "/content/i25-8029-NLP-Assignment2/results/plots/attention/attention_article_128_head_2.png",
+    "note": "Cropped view of final-layer attention computed over the full article input."
+  },
+  {
+    "article_id": 94,
+    "title": "بچے کی پیدائش کے بعد وزن کم کرنے کا دباؤ: ’ہر عورت کے جسم اور صحت یابی کی رفتار میں فرق ہوتا ہے‘",
+    "topic": "Health & Society",
+    "predicted_topic": "Health & Society",
+    "needs_review": false,
+    "head": 1,
+    "visible_tokens": 24,
+    "path": "/content/i25-8029-NLP-Assignment2/results/plots/attention/attention_article_94_head_1.png",
+    "note": "Cropped view of final-layer attention computed over the full article input."
+  },
+  {
+    "article_id": 94,
+    "title": "بچے کی پیدائش کے بعد وزن کم کرنے کا دباؤ: ’ہر عورت کے جسم اور صحت یابی کی رفتار میں فرق ہوتا ہے‘",
+    "topic": "Health & Society",
+    "predicted_topic": "Health & Society",
+    "needs_review": false,
+    "head": 2,
+    "visible_tokens": 24,
+    "path": "/content/i25-8029-NLP-Assignment2/results/plots/attention/attention_article_94_head_2.png",
+    "note": "Cropped view of final-layer attention computed over the full article input."
+  },
+  {
+    "article_id": 208,
+    "title": "پاکستان اور انڈیا کے درمیان ’ٹریک ٹو سفارتکاری‘ اور شہباز، مودی کے نام خط: اب تک کیا ہوا؟",
+    "topic": "International",
+    "predicted_topic": "International",
+    "needs_review": false,
+    "head": 1,
+    "visible_tokens": 24,
+    "path": "/content/i25-8029-NLP-Assignment2/results/plots/attention/attention_article_208_head_1.png",
+    "note": "Cropped view of final-layer attention computed over the full article input."
+  },
+  {
+    "article_id": 208,
+    "title": "پاکستان اور انڈیا کے درمیان ’ٹریک ٹو سفارتکاری‘ اور شہباز، مودی کے نام خط: اب تک کیا ہوا؟",
+    "topic": "International",
+    "predicted_topic": "International",
+    "needs_review": false,
+    "head": 2,
+    "visible_tokens": 24,
+    "path": "/content/i25-8029-NLP-Assignment2/results/plots/attention/attention_article_208_head_2.png",
+    "note": "Cropped view of final-layer attention computed over the full article input."
+  }
+]
