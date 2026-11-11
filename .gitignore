@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+.drive/
+content/
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Local experiment artifacts (commit final required outputs explicitly)
+*.tmp
+*.cache
