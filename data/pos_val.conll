@@ -162,7 +162,7 @@
 جس	PRON
 وکٹ	NOUN
 پر	POST
-انگلینڈ	UNK
+انگلینڈ	NOUN
 کے	POST
 فاسٹ	UNK
 بولرز	UNK
@@ -553,7 +553,7 @@
 میں	POST
 دوسرا	DET
 ،	PUNC
-خاص	UNK
+خاص	ADJ
 طور	NOUN
 پر	POST
 اپنا	DET
@@ -1153,7 +1153,7 @@
 کلب	UNK
 میں	POST
 شوقیہ	UNK
-پرفارم	UNK
+پرفارم	VERB
 کیا	VERB
 کرتا	VERB
 تھا	VERB
@@ -1164,7 +1164,7 @@
 میں	POST
 پاکستانی	ADJ
 ٹیم	NOUN
-انگلینڈ	UNK
+انگلینڈ	NOUN
 کی	POST
 پہلا	ADJ
 اننگز	NOUN
@@ -1530,7 +1530,7 @@
 کی	POST
 اطاعت	UNK
 قبول	UNK
-کرا	UNK
+کرا	VERB
 ۔	PUNC
 
 میں	PRON
@@ -1572,7 +1572,7 @@
 وقت	NOUN
 سارا	UNK
 مینیجمنٹ	UNK
-انگلینڈ	UNK
+انگلینڈ	NOUN
 میں	POST
 ہی	ADV
 ہے	VERB
@@ -1641,7 +1641,7 @@
 کہ	CONJ
 نیو	UNK
 ساؤتھ	UNK
-ویلز	UNK
+ویلز	NOUN
 میں	POST
 سڑک	UNK
 حادثہ	UNK
@@ -1667,7 +1667,7 @@
 کوئی	DET
 مثال	UNK
 قائم	UNK
-کرا	UNK
+کرا	VERB
 گا	VERB
 ؟	PUNC
 
@@ -1809,7 +1809,7 @@
 گیا	VERB
 خط	UNK
 کے	POST
-حوالہ	UNK
+حوالہ	NOUN
 سے	POST
 پاکستان	NOUN
 کا	POST
@@ -1830,7 +1830,7 @@
 شمولیت	UNK
 کا	POST
 خیرمقدم	UNK
-کرا	UNK
+کرا	VERB
 گا	VERB
 ۔	PUNC
 

@@ -188,7 +188,7 @@
 ۔	PUNC
 
 جس	PRON
-طرح	UNK
+طرح	NOUN
 کی	POST
 ہاکی	UNK
 ہم	PRON
@@ -359,7 +359,7 @@
 ممکن	UNK
 ہے	VERB
 کہ	CONJ
-انگلینڈ	UNK
+انگلینڈ	NOUN
 نے	POST
 خود	PRON
 کو	POST
@@ -655,7 +655,7 @@
 ہار	UNK
 پر	POST
 کرکٹ	NOUN
-بورڈ	UNK
+بورڈ	NOUN
 غصہ	UNK
 میں	POST
 ہے	VERB
@@ -686,7 +686,7 @@
 ان	PRON
 کی	POST
 اپنا	DET
-تحقیق	UNK
+تحقیق	NOUN
 کے	POST
 مطابق	POST
 اس	PRON
@@ -806,7 +806,7 @@
 ،	PUNC
 بالکل	ADV
 اسی	ADJ
-طرح	UNK
+طرح	NOUN
 جیسا	ADJ
 برس	UNK
 تک	POST
@@ -879,7 +879,7 @@
 دکھائے	UNK
 کہ	CONJ
 وہاں	ADV
-انگلینڈ	UNK
+انگلینڈ	NOUN
 کے	POST
 دورہ	UNK
 پر	POST
@@ -2047,7 +2047,7 @@
 کیا	VERB
 تھا	VERB
 کہ	CONJ
-بورڈ	UNK
+بورڈ	NOUN
 کو	POST
 ان	PRON
 کی	POST
@@ -2134,8 +2134,8 @@
 تو	CONJ
 اس	PRON
 کی	POST
-تحقیق	UNK
-کرا	UNK
+تحقیق	NOUN
+کرا	VERB
 کا	POST
 اختیار	UNK
 انٹرنیشنل	UNK
